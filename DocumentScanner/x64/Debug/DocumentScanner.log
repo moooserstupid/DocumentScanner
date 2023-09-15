@@ -1,0 +1,26 @@
+﻿  document_scanner.cpp
+C:\MyThings\Data\CodingProjects\DocumentScanner\DocumentScanner\DocumentScanner\document_scanner.cpp(33,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\MyThings\Data\CodingProjects\DocumentScanner\DocumentScanner\DocumentScanner\document_scanner.cpp(38,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\MyThings\Data\CodingProjects\DocumentScanner\DocumentScanner\DocumentScanner\document_scanner.cpp(89,58): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\MyThings\Data\CodingProjects\DocumentScanner\DocumentScanner\DocumentScanner\document_scanner.cpp(89,55): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\MyThings\Data\CodingProjects\DocumentScanner\DocumentScanner\DocumentScanner\document_scanner.cpp(112,5): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\MyThings\Data\CodingProjects\DocumentScanner\DocumentScanner\DocumentScanner\document_scanner.cpp(111,41): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  main.cpp
+  Generating Code...
+  DocumentScanner.vcxproj -> C:\MyThings\Data\CodingProjects\DocumentScanner\DocumentScanner\x64\Debug\DocumentScanner.exe
